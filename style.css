@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero{
+    min-height: 100vh;
+    background-image: linear-gradient(#0000004b , #00000062) , url("./pexels-spal-18820290.jpg");
+    background-size: cover;
+    background-position: center;
+}
